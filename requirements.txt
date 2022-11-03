@@ -34,7 +34,6 @@ flake8==3.8.3
 idna==2.10
 inflection==0.5.1
 iniconfig==1.0.1
-ipdb==0.10.3
 ipython==6.4.0
 ipython-genutils==0.2.0
 jdcal==1.4
