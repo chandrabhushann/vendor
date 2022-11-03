@@ -23,7 +23,6 @@ django-crontab==0.7.1
 django-dbbackup==3.3.0
 django-debug-toolbar==2.2
 django-localflavor==3.0
-djangorestframework==3.8.2
 docopt==0.6.2
 drf-excel==2.2.0
 drf-renderer-xlsx==0.4.4
