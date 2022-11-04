@@ -1,3 +1,4 @@
+mysqlclient==2.1.1
 backcall==0.1.0
 colorama==0.3.9
 crispy-forms-foundation==0.7.1
