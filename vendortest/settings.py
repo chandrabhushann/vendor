@@ -23,10 +23,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '!dr#_a7i_jsa^37(r1ikg!qdc$rze7folq0$137h=b2rg48)^8'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
-
+DEBUG = False
 ALLOWED_HOSTS = ['localhost', 'sales-samples.pg.com', '127.0.0.1', 'multivendor.azurewebsites.net']
-
 
 # Application definition
 
